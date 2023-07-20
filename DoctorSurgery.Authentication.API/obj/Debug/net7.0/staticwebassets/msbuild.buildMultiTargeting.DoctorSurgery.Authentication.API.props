@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DoctorSurgery.Authentication.API.props" />
+</Project>

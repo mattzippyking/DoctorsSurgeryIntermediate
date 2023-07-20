@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pN7iHdHL2A4d6L/kDmJiBvKBXdGXJZth9HdBX86gqJA=",
+  "Source": "DoctorSurgery.Authentication.API",
+  "BasePath": "_content/DoctorSurgery.Authentication.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

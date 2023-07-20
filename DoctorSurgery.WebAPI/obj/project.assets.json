@@ -1,0 +1,138 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "DoctorSurgery.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "DoctorSurgery.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DoctorSurgery.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DoctorSurgery.Application.dll": {}
+        }
+      },
+      "DoctorSurgery.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DoctorSurgery.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DoctorSurgery.Domain.dll": {}
+        }
+      },
+      "DoctorSurgery.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "DoctorSurgery.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DoctorSurgery.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DoctorSurgery.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoctorSurgery.Application/1.0.0": {
+      "type": "project",
+      "path": "../DoctorSurgery.Application/DoctorSurgery.Application.csproj",
+      "msbuildProject": "../DoctorSurgery.Application/DoctorSurgery.Application.csproj"
+    },
+    "DoctorSurgery.Domain/1.0.0": {
+      "type": "project",
+      "path": "../DoctorSurgery.Domain/DoctorSurgery.Domain.csproj",
+      "msbuildProject": "../DoctorSurgery.Domain/DoctorSurgery.Domain.csproj"
+    },
+    "DoctorSurgery.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../DoctorSurgery.Infrastructure/DoctorSurgery.Infrastructure.csproj",
+      "msbuildProject": "../DoctorSurgery.Infrastructure/DoctorSurgery.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "DoctorSurgery.Application >= 1.0.0",
+      "DoctorSurgery.Domain >= 1.0.0",
+      "DoctorSurgery.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\matthew-king.ART-SPL-309V2T3\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\SourceCode\\DoctorsSurgeryIntermediate\\DoctorSurgery.WebAPI\\DoctorSurgery.WebAPI.csproj",
+      "projectName": "DoctorSurgery.WebAPI",
+      "projectPath": "C:\\SourceCode\\DoctorsSurgeryIntermediate\\DoctorSurgery.WebAPI\\DoctorSurgery.WebAPI.csproj",
+      "packagesPath": "C:\\Users\\matthew-king.ART-SPL-309V2T3\\.nuget\\packages\\",
+      "outputPath": "C:\\SourceCode\\DoctorsSurgeryIntermediate\\DoctorSurgery.WebAPI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\matthew-king.ART-SPL-309V2T3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\SourceCode\\DoctorsSurgeryIntermediate\\DoctorSurgery.Application\\DoctorSurgery.Application.csproj": {
+              "projectPath": "C:\\SourceCode\\DoctorsSurgeryIntermediate\\DoctorSurgery.Application\\DoctorSurgery.Application.csproj"
+            },
+            "C:\\SourceCode\\DoctorsSurgeryIntermediate\\DoctorSurgery.Domain\\DoctorSurgery.Domain.csproj": {
+              "projectPath": "C:\\SourceCode\\DoctorsSurgeryIntermediate\\DoctorSurgery.Domain\\DoctorSurgery.Domain.csproj"
+            },
+            "C:\\SourceCode\\DoctorsSurgeryIntermediate\\DoctorSurgery.Infrastructure\\DoctorSurgery.Infrastructure.csproj": {
+              "projectPath": "C:\\SourceCode\\DoctorsSurgeryIntermediate\\DoctorSurgery.Infrastructure\\DoctorSurgery.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

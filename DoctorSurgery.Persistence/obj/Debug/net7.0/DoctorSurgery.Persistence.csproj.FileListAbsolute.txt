@@ -1,0 +1,12 @@
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Persistence\bin\Debug\net7.0\DoctorSurgery.Persistence.deps.json
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Persistence\bin\Debug\net7.0\DoctorSurgery.Persistence.dll
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Persistence\bin\Debug\net7.0\DoctorSurgery.Persistence.pdb
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Persistence\obj\Debug\net7.0\DoctorSurgery.Persistence.csproj.AssemblyReference.cache
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Persistence\obj\Debug\net7.0\DoctorSurgery.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Persistence\obj\Debug\net7.0\DoctorSurgery.Persistence.AssemblyInfoInputs.cache
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Persistence\obj\Debug\net7.0\DoctorSurgery.Persistence.AssemblyInfo.cs
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Persistence\obj\Debug\net7.0\DoctorSurgery.Persistence.csproj.CoreCompileInputs.cache
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Persistence\obj\Debug\net7.0\DoctorSurgery.Persistence.dll
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Persistence\obj\Debug\net7.0\refint\DoctorSurgery.Persistence.dll
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Persistence\obj\Debug\net7.0\DoctorSurgery.Persistence.pdb
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Persistence\obj\Debug\net7.0\ref\DoctorSurgery.Persistence.dll

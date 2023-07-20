@@ -1,0 +1,15 @@
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Application\bin\Debug\net7.0\DoctorSurgery.Application.deps.json
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Application\bin\Debug\net7.0\DoctorSurgery.Application.dll
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Application\bin\Debug\net7.0\DoctorSurgery.Application.pdb
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Application\bin\Debug\net7.0\DoctorSurgery.Domain.dll
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Application\bin\Debug\net7.0\DoctorSurgery.Domain.pdb
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Application\obj\Debug\net7.0\DoctorSurgery.Application.csproj.AssemblyReference.cache
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Application\obj\Debug\net7.0\DoctorSurgery.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Application\obj\Debug\net7.0\DoctorSurgery.Application.AssemblyInfoInputs.cache
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Application\obj\Debug\net7.0\DoctorSurgery.Application.AssemblyInfo.cs
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Application\obj\Debug\net7.0\DoctorSurgery.Application.csproj.CoreCompileInputs.cache
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Application\obj\Debug\net7.0\DoctorSurgery.Application.csproj.CopyComplete
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Application\obj\Debug\net7.0\DoctorSurgery.Application.dll
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Application\obj\Debug\net7.0\refint\DoctorSurgery.Application.dll
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Application\obj\Debug\net7.0\DoctorSurgery.Application.pdb
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgery.Application\obj\Debug\net7.0\ref\DoctorSurgery.Application.dll

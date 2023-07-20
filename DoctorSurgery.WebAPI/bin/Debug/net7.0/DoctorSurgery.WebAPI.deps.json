@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DoctorSurgery.WebAPI/1.0.0": {
+        "dependencies": {
+          "DoctorSurgery.Application": "1.0.0",
+          "DoctorSurgery.Domain": "1.0.0",
+          "DoctorSurgery.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "DoctorSurgery.WebAPI.dll": {}
+        }
+      },
+      "DoctorSurgery.Application/1.0.0": {
+        "dependencies": {
+          "DoctorSurgery.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DoctorSurgery.Application.dll": {}
+        }
+      },
+      "DoctorSurgery.Domain/1.0.0": {
+        "runtime": {
+          "DoctorSurgery.Domain.dll": {}
+        }
+      },
+      "DoctorSurgery.Infrastructure/1.0.0": {
+        "dependencies": {
+          "DoctorSurgery.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DoctorSurgery.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoctorSurgery.WebAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DoctorSurgery.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DoctorSurgery.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DoctorSurgery.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

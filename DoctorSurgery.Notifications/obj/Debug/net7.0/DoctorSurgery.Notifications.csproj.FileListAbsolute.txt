@@ -1,0 +1,15 @@
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgy.Notifications\bin\Debug\net7.0\DoctorSurgery.Notifications.deps.json
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgy.Notifications\bin\Debug\net7.0\DoctorSurgery.Notifications.dll
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgy.Notifications\bin\Debug\net7.0\DoctorSurgery.Notifications.pdb
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgy.Notifications\obj\Debug\net7.0\DoctorSurgery.Notifications.csproj.AssemblyReference.cache
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgy.Notifications\obj\Debug\net7.0\DoctorSurgery.Notifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgy.Notifications\obj\Debug\net7.0\DoctorSurgery.Notifications.AssemblyInfoInputs.cache
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgy.Notifications\obj\Debug\net7.0\DoctorSurgery.Notifications.AssemblyInfo.cs
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgy.Notifications\obj\Debug\net7.0\DoctorSurgery.Notifications.csproj.CoreCompileInputs.cache
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgy.Notifications\obj\Debug\net7.0\DoctorSurgery.Notifications.dll
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgy.Notifications\obj\Debug\net7.0\refint\DoctorSurgery.Notifications.dll
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgy.Notifications\obj\Debug\net7.0\DoctorSurgery.Notifications.pdb
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgy.Notifications\obj\Debug\net7.0\ref\DoctorSurgery.Notifications.dll
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgy.Notifications\bin\Debug\net7.0\DoctorSurgery.Domain.dll
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgy.Notifications\bin\Debug\net7.0\DoctorSurgery.Domain.pdb
+C:\SourceCode\DoctorsSurgeryIntermediate\DoctorSurgy.Notifications\obj\Debug\net7.0\DoctorSurgery.Notifications.csproj.CopyComplete

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "66c9C76wLR5EBtuJdNLqnvk+KMqJTdxVKsGLTr3YInk=",
+  "Source": "DoctorSurgery.WebAPI",
+  "BasePath": "_content/DoctorSurgery.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
